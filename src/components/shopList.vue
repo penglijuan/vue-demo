@@ -5,7 +5,7 @@
 			<div class="right">
 				<p class="title">{{item.name}}{{item.id}}</p>
 				<p class="cf"><span class="fl">月售{{item.month_sale_num}}</span><span class="fr">{{item.avg_delivery_time}}分钟 | {{distance}}</span></p>
-				<p>起送25 | 配送3.5 | 人均31<span v-show="item.delivery_type==1" class="fr zhuansong">美团专送</span></p>
+				<p>起送28 | 配送3.5 | 人均31<span v-show="item.delivery_type==1" class="fr zhuansong">美团专送</span></p>
 				<p>{{replace}}<span class="iconfont icon-dilanxianxingiconyihuifu_huabanfuben" @click="add(item)"></span></p>
 			</div>
 		</a>
