@@ -1,0 +1,22 @@
+[
+    {
+      "icon":"../../static/icons/drink.png",
+      "title": "美食",
+      "type":1
+    },
+    {
+      "icon": "../../static/icons/egg.png",
+      "title": "鸡蛋",
+      "type":2
+    },
+    {
+      "icon": "../../static/icons/waimai.png",
+      "title": "外卖",
+      "type":3
+    },
+    {
+      "icon": "../../static/icons/shuiguo.png",
+      "title": "水果",
+      "type":4
+    }
+  ]

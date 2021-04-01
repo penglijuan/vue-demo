@@ -1,0 +1,18 @@
+[
+	{
+		"url":"../../static/slide/img1.jpg",
+		"title":"banner1"
+	},
+	{
+		"url":"../../static/slide/img2.jpg",
+		"title":"banner2"
+	},
+	{
+		"url":"../../static/slide/img3.jpg",
+		"title":"banner3"
+	},
+	{
+		"url":"../../static/slide/img4.jpg",
+		"title":"banner4"
+	}
+]

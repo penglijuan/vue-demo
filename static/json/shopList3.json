@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1008,
+        "type":1,
+        "name": "这是外卖列表",
+        "delivery_type": 1,
+        "pic_url": "http://p0.meituan.net/0.84.63/xianfu/00b9386a556a39010186a609ce9289e370566.jpg",
+        "avg_delivery_time": 30,
+        "delivery_distance": 800,
+        "min_price": 20,
+        "delivery_price": 3,
+        "wm_poi_score": 4.7,
+        "month_sale_num": 33,
+        "shop_discount": {
+            "code":0,
+            "dis_money":[2]
+        },
+        "shop_return_price": {
+            "code":0,
+            "min_price":20,
+            "dis_money":4
+        },
+        "shop_return_invoice": {
+            "code":0,
+            "min_price":0
+        }   
+    },
+    {
+        "id": 1009,
+        "type":1,
+        "name": "这是外卖列表",
+        "delivery_type": 0,
+        "pic_url": "http://p0.meituan.net/0.84.63/xianfu/54c60749841a6612df373dc259e8da73108176.jpg",
+        "avg_delivery_time": 30,
+        "delivery_distance": 2032,
+        "min_price": 20,
+        "delivery_price": 3,
+        "wm_poi_score": 4.7,
+        "month_sale_num": 33,
+        "shop_discount": {
+            "code":1,
+            "dis_money":[2,4,8]
+        },
+        "shop_return_price": {
+            "code":0,
+            "min_price":20,
+            "dis_money":4
+        },
+        "shop_return_invoice": {
+            "code":0,
+            "min_price":0
+        }   
+    },
+    {
+        "id": 1010,
+        "type":1,
+        "name": "海底捞",
+        "delivery_type": 1,
+        "pic_url": "http://p0.meituan.net/0.84.63/xianfu/54c60749841a6612df373dc259e8da73108176.jpg",
+        "avg_delivery_time": 30,
+        "delivery_distance": 2032,
+        "min_price": 20,
+        "delivery_price": 3,
+        "wm_poi_score": 4.7,
+        "month_sale_num": 33,
+        "shop_discount": {
+            "code":1,
+            "dis_money":[2,4,10]
+        },
+        "shop_return_price": {
+            "code":0,
+            "min_price":20,
+            "dis_money":4
+        },
+        "shop_return_invoice": {
+            "code":0,
+            "min_price":0
+        }   
+    },
+    {
+        "id": 1011,
+        "type":1,
+        "name": "老乡鸡",
+        "delivery_type": 0,
+        "pic_url": "http://p0.meituan.net/0.84.63/xianfu/54c60749841a6612df373dc259e8da73108176.jpg",
+        "avg_delivery_time": 30,
+        "delivery_distance": 2032,
+        "min_price": 20,
+        "delivery_price": 3,
+        "wm_poi_score": 4.7,
+        "month_sale_num": 33,
+        "shop_discount": {
+            "code":0,
+            "dis_money":[2,4]
+        },
+        "shop_return_price": {
+            "code":0,
+            "min_price":20,
+            "dis_money":4
+        },
+        "shop_return_invoice": {
+            "code":0,
+            "min_price":0
+        }   
+    }
+    
+]
